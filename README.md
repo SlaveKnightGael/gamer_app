@@ -1,5 +1,8 @@
 # README
 
+This App is called GameShop. The app is a store that revolves around the selling and purchasing of video games, consoles, controllers
+and other video game related content.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
